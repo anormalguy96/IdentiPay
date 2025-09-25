@@ -18,5 +18,5 @@ You can also check out [IdentiPay's website](https://identipay-app.lovable.app) 
 * Add privacy and security layers to protect user data.
 * Explore scaling for nationwide public transportation.
 
-### License
-All rights reserved by MLior8dCode and [1453nicat](github.com/1453nicat).
+### Licence
+All rights reserved by MLior8dCode and [1453nicat](https://www.github.com/1453nicat).
